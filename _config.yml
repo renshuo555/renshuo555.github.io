@@ -364,8 +364,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -375,7 +375,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics:f8a69afbe378945f22ad4845f84060da
+baidu_analytics: f8a69afbe378945f22ad4845f84060da
 
 # Duoshuo ShortName
 #duoshuo_shortname:
