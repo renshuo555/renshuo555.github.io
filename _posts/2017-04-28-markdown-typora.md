@@ -15,7 +15,7 @@ mathjax: true
 
 **Markdown** 是[Daring Fireball](http://daringfireball.net/) 发明的，这是[官方的指导手册连接](http://daringfireball.net/projects/markdown/syntax)。然而，其语法根据不同的编辑器和编辑者而异。**Typora**使用的是[GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/) 。
 
-<!-- more -->
+<!--more-->
 
 注意，Markdown中的html片段会被识别，但是不会实时解析或呈现，另外，原始的Markdown源文件被保存后可能会重新格式化。
 
