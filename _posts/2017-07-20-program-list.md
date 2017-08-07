@@ -3,7 +3,7 @@ layout: post
 title:  安装软件列表
 date: 2017-07-20 12:06:38
 categories: Other
-tags: Other Tools
+tags: other tools
 author: renshuo
 mathjax: true
 ---
