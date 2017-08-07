@@ -26,4 +26,4 @@ type: page
 
 本站使用了[HyG](https://github.com/Gaohaoyang)设计的jekyll theme。
 
-若您想使用这个 jekyll 博客主题，请访问：** [https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) **
+若您想使用这个 jekyll 博客主题，请访问：**[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
