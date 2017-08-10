@@ -3,7 +3,7 @@ layout: post
 title: Typora Markdown 手册
 date: 2017-04-28 10:06:38
 categories: Markdown
-tags: markdown tools typora
+tags: Markdown 工具
 author: renshuo
 mathjax: true
 ---

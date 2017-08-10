@@ -2,8 +2,8 @@
 layout: post
 title:  Eclipse的安装配置
 date: 2017-06-03 10:06:38
-categories: Java
-tags: java eclipse
+categories: 工具
+tags: Java 工具
 author: renshuo
 mathjax: true
 ---
