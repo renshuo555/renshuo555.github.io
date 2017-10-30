@@ -15,12 +15,15 @@ type: page
 
 目前是武汉理工大学计算机学院的一名学生
 
+本博客主要用来记录个人笔记等，相同内容同样会更新在我的CSDN博客上
+
 ## 联系我
 
 * GitHub：[renshuo555](https://github.com/renshuo555)
 * email：renshuo555@126.com
 * [Weibo](http://weibo.com/3253643851)
 * [Facebook](https://www.facebook.com/renshuo555)
+* [CSDN](http://blog.csdn.net/mr_r555)
 
 ## 关于本站
 
