@@ -30,7 +30,7 @@ mathjax: true
 * [Dism++](https://www.chuyu.me/zh-Hans/index.html) (这个东西有点高级，我觉得还是360方便点儿)
 * [360安全卫士](http://weishi.360.cn/?source=homepage&r=bd)
 * [Geek Uninstaller](https://geekuninstaller.com/)
-* [火绒安全软件](http://www.huorong.cn/) 
+* [火绒安全软件](http://www.huorong.cn/) 垃圾清理也很不错
 
 ## 工具软件
 
@@ -39,9 +39,11 @@ mathjax: true
 * [Wox + Everything](https://github.com/Wox-launcher/Wox/releases)
 * [网易云音乐](http://music.163.com/)
 * [PotPlayer](http://potplayer.daum.net/?lang=zh_CN)
+* [ABBYY FineReader](http://www.dayanzai.me) pdf文档orc软件，特别好用
 * [搜狗输入法](http://pinyin.sogou.com/)
 * [Microsoft Office](http://www.itellyou.cn/)
 * [Visio](http://www.itellyou.cn/)
+* [MathType]() 很好用，可以选择复制为LaTeX代码
 * [轻松备份 + 分区助手](http://www.disktool.cn/)
 * [Chrome](http://www.google.cn/chrome/browser/desktop/index.html)
   地址栏最后的网址是这样的：[http://www.google.cn/chrome/browser/desktop/index.html](http://www.google.cn/chrome/browser/desktop/index.html)
@@ -49,8 +51,10 @@ mathjax: true
   解释下添加的参数，`?standalone=1` 指离线安装包，`platform=win64` 指64位Windows 版本。
   如果加上的只是`?standalone=1`可以用来下载32位的Chrome离线包。用`mac`替换`win`，就可以下载 Mac 版本的了。
 * [福昕PDF](https://www.foxitsoftware.cn/products/reader/)
-* [有道词典](http://dict.youdao.com/)
+* [~~有道词典~~](http://dict.youdao.com/) 被欧路词典取代
+* [欧路词典](https://www.eudic.net/v4/en/app/eudic) 有道词典已经被淘汰了，添加词典可参照 <https://www.zhihu.com/question/21133533>
 * [Shadowsocks]()
+* [XMind](http://www.xmindchina.net/) 思维导图软件，也可以使用一些在线的网站代替
 
 ## 聊天软件
 
@@ -68,7 +72,7 @@ mathjax: true
 
 * [Sublime](http://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Typora](https://www.typora.io/)
+* [Typora](https://www.typora.io/) 最喜欢的Markdown编辑软件
 * [MarkEditor](http://zrey.com/app/markeditor)
 
 ## 知识笔记
@@ -89,8 +93,14 @@ mathjax: true
 
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) **推荐**
 * [Android Studio](https://developer.android.com/studio/index.html)
+* [Macen](http://maven.apache.org/) 一个仓库地址 <http://mvnrepository.com/>
+
+## Python
+
+* [Anaconda](https://www.anaconda.com/)
+* [PyCharm](http://www.jetbrains.com/pycharm/)
 
 ## C++
 
