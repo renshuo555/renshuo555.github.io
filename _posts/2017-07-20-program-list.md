@@ -95,7 +95,7 @@ mathjax: true
 * [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) **推荐**
 * [Android Studio](https://developer.android.com/studio/index.html)
-* [Macen](http://maven.apache.org/) 一个仓库地址 <http://mvnrepository.com/>
+* [Maven](http://maven.apache.org/) 一个仓库地址 <http://mvnrepository.com/>
 
 ## Python
 
