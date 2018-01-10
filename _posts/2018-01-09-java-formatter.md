@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java格式化输出
+title: Java格式化输出
 date: 2018-01-09 22:47:47
 categories: Java
 tags: Java
