@@ -30,7 +30,7 @@ mathjax: true
 
 ```java
 if(s1.charAt(i) == s2.charAt(j)){
-    b[i][j] = b[i - 1][j - 1] + 1；
+    b[i][j] = b[i - 1][j - 1] + 1;
 }
 ```
 
