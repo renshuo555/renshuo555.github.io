@@ -37,6 +37,7 @@ mathjax: true
 * [7-Zip](http://7-zip.org/)
 * [迅雷极速版]()
 * [Wox + Everything](https://github.com/Wox-launcher/Wox/releases)
+* [Snipaste](https://www.snipaste.com/index.html) 超级强大的截图软件
 * [网易云音乐](http://music.163.com/)
 * [PotPlayer](http://potplayer.daum.net/?lang=zh_CN)
 * [ABBYY FineReader](http://www.dayanzai.me) pdf文档orc软件，特别好用
@@ -54,7 +55,7 @@ mathjax: true
 * [~~有道词典~~](http://dict.youdao.com/) 被欧路词典取代
 * [欧路词典](https://www.eudic.net/v4/en/app/eudic) 有道词典已经被淘汰了，添加词典可参照 <https://www.zhihu.com/question/21133533>
 * [Shadowsocks]()
-* [XMind](http://www.xmindchina.net/) 思维导图软件，也可以使用一些在线的网站代替
+* [XMind](http://www.xmindchina.net/) 思维导图软件，也可以使用一些在线的网站代替，如[百度脑图](http://naotu.baidu.com/)
 
 ## 聊天软件
 
@@ -77,17 +78,17 @@ mathjax: true
 
 ## 知识笔记
 
-* [Zotero](https://www.zotero.org/)
-* [Mendeley](https://www.mendeley.com/)
+* [Zotero](https://www.zotero.org/) 论文管理工具
+* [Mendeley](https://www.mendeley.com/) 同zotero
 * [印象笔记](https://app.yinxiang.com/Home.action)
 * [Notion](https://www.notion.so)
-* [Zeal](https://zealdocs.org/)
+* [Zeal](https://zealdocs.org/) 本地API查找工具
 
 ## Git
 
 * [Git](https://git-scm.com/)
 * [SourceTree](https://www.sourcetreeapp.com/)
-* [GitKraken](https://www.gitkraken.com/)
+* [GitKraken](https://www.gitkraken.com/) 最喜欢的git图形页面，没有之一
 
 ## Java
 
