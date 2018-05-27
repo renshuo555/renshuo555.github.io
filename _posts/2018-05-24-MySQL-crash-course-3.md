@@ -232,7 +232,7 @@ CALL productpricing(@pricelow, @pricehigh, @priceaverage);  --执行名为produc
 
 在调用时，这条语句并不显示任何数据。它返回以后可以显示（或在其他处理中使用）的变量。
 
-**创建存储过程**
+### 创建存储过程
 
 ```sql
 CREATE PROCEDURE productpricing()
@@ -242,13 +242,13 @@ BEGIN
 END;
 ```
 
-**删除存储过程**
+### 删除存储过程
 
 ```sql
 DROP PROCEDURE productpricing;
 ```
 
-**使用参数**
+### 使用参数
 
 ```sql
 CREATE PROCEDURE productpricing(
@@ -286,7 +286,7 @@ END;    -- 创建
 CALL ordertatal(20005, @total);   -- 调用
 ```
 
-**建立智能存储过程**
+### 建立智能存储过程
 
 ``` sql
 -- Name:ordertotal
@@ -321,11 +321,51 @@ END;
 
 这个例子给出了MySQL的IF语句的基本用法。 IF语句还支持ELSEIF和ELSE子句（前者还使用THEN子句，后者不使用）。
 
-**检查存储过程**
+### 检查存储过程
 
 ``` sql
 SHOW CREATE PROCEDURE ordertotal;  -- 显示用来创建一个存储过程的CREATE语句
 
 SHOW PROCEDURE STATUS;   -- 获得包括何时、由谁创建等详细信息的存储过程列表
 ```
+
+## 使用游标
+
+游标（`cursor`） 是一个存储在MySQL服务器上的数据库查询，它不是一条`SELECT`语句，而是被该语句检索出来的结果集。在存储了游标之后，应用程序可以根据需要滚动或浏览其中的数据。
+
+### 使用游标
+
+- 在能够使用游标前，必须声明（定义）它。这个过程实际上没有检索数据，它只是定义要使用的`SELECT`语句。
+- 一旦声明后，必须打开游标以供使用。这个过程用前面定义的`SELECT`语句把数据实际检索出来。
+- 对于填有数据的游标，根据需要取出（检索）各行。
+- 在结束游标使用时，必须关闭游标。
+
+#### 创建游标
+
+游标用`DECLARE`语句创建（参见第23章）。 `DECLARE`命名游标，并定义相应的`SELECT`语句，根据需要带`WHERE`和其他子句。
+
+```sql
+CREATE PROCEDURE processorders()
+BEGIN
+	DECLARE ordernumbers CURSOR
+	FOR
+	SELECT order_num FROM orders;
+END;
+```
+
+#### 打开和关闭游标
+
+```sql
+OPEN ordernumbers;  -- 打开游标
+
+CLOSE ordernumbers；  -- 关闭游标
+```
+
+如果你不明确关闭游标， MySQL将会在到达`END`语句时自动关闭它。
+
+#### 使用游标数据
+
+在一个游标被打开后，可以使用`FETCH`语句分别访问它的每一行。`FETCH`指定检索什么数据（所需的列），检索出来的数据存储在什么地方。它还向前移动游标中的内部行指针，使下一条FETCH语句检索下一行（不重复读取同一行）。
+
+
 
