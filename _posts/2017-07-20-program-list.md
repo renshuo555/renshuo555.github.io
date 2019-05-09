@@ -22,6 +22,9 @@ mathjax: true
 
 ## 系统管理
 
+* [WePE](<http://www.wepe.com.cn/>)
+  微PE工具箱，最好用的装机工具
+
 * [火绒安全软件](http://www.huorong.cn/) 
   可以用来取代360
 
@@ -36,6 +39,9 @@ mathjax: true
 
 * [Geek Uninstaller](https://geekuninstaller.com/) 
   卸载专用
+  
+* [DiskGenius](<http://diskgenius.cn/>)
+  硬盘管理工具
 
 ## 浏览器
 
