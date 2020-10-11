@@ -13,9 +13,7 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/renshuo555?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-目前是武汉理工大学计算机学院的一名学生
-
-本博客主要用来记录个人笔记等，相同内容同样会更新在我的CSDN博客上
+本博客主要用来记录个人笔记等，CSDN不定期更新(大概)
 
 ## 联系我
 
